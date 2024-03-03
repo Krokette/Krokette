@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/Krokette/count.svg" />
 </p>
@@ -11,6 +9,10 @@ K̴̡͖͔̺͖͋͑̓̈́͊̈́͊͆̏́̓̒͘̕͝r̴͔̳͇͇͖͈͇̜̤̄̔̈́͂͑̽̍̕
   </h1>
 <br><br>
 
+> [!TIP]  
+**Did you think someone would try this in your app?**  
+> Give me your app, I'll twist it, turn it . . .  
+and find glitches you never knew existed. 🧐
 
 <!--
 **Krokette/Krokette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
